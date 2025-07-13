@@ -1,0 +1,36 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/
+
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.VC.db
+*.VC.VC.opendb
+
+*.log
+*.tmp
+*.mp4
+
+.DS_Store
+
+.vscode/
+.idea/
+
+# Visual Studio cache
+.vs/
+*.ipch 
+
+# Jetbrain Rider
+Plugins/**/RiderLink/*
+*.DotSettings.user
+
+Content/FreeSampleAnimationSet/*
+Plugins/SteamIntegrationKit/*
+Content/FreeAnimationLibrary/*
+Content/FlexibleCombatSystem/*
+Content/StarterContent/*
